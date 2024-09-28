@@ -62,3 +62,10 @@ These metrics will help us compare the effectiveness of each model and assess ho
 ## Dataset
 This dataset was taken from [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data). 
 
+## Author
+This project was created by Kanupriya Jain. If you have any questions, feel free to reach out!
+
+### Suggestions and Improvements
+Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request if you have ideas for enhancing this project.
+
+
